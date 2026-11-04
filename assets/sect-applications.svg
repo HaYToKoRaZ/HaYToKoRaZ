@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="42" viewBox="0 0 840 42" font-family="'Cascadia Code','Consolas','JetBrains Mono',Menlo,monospace">
+<rect width="840" height="42" rx="9" fill="#101A22" stroke="#1E2A33"/>
+<circle cx="24" cy="21" r="4.5" fill="#FFB000"/>
+<circle cx="41" cy="21" r="4.5" fill="#2FE0C8"/>
+<circle cx="58" cy="21" r="4.5" fill="#5A7280"/>
+<text x="80" y="26" font-size="13" font-weight="bold" fill="#D7E3E8">~/products/applications</text>
+<text x="816" y="25" font-size="10" fill="#FFB000" text-anchor="end" letter-spacing="1.5">7 modules - windows - linux</text>
+<path d="M826 8 v-4" stroke="#FFB000" stroke-width="2" opacity="0"/></svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="130" viewBox="0 0 250 130" font-family="'Cascadia Code','Consolas','JetBrains Mono',Menlo,monospace">
+<style>
+  .led04 { animation: pulse04 2.4s ease-in-out infinite; }
+  @keyframes pulse04 { 0%,100% {opacity:1;} 50% {opacity:.25;} }
+</style>
+<rect width="250" height="130" rx="10" fill="#101A22" stroke="#1E2A33"/>
+<path d="M7 15 v-8 h8" stroke="#4FC3F7" stroke-width="1.8" fill="none" opacity=".75"/>
+<path d="M243 15 v-8 h-8" stroke="#4FC3F7" stroke-width="1.8" fill="none" opacity=".75"/>
+<path d="M7 115 v8 h8" stroke="#4FC3F7" stroke-width="1.8" fill="none" opacity=".75"/>
+<path d="M243 115 v8 h-8" stroke="#4FC3F7" stroke-width="1.8" fill="none" opacity=".75"/>
+<g transform="translate(22,24)">
+      <rect x="0" y="4.5" width="13" height="9" rx="2" fill="#4FC3F7"/>
+      <path d="M4.5 4.5 a3.2 3.2 0 1 1 4.5 0 z" fill="#4FC3F7"/>
+      <rect x="4" y="13.5" width="5" height="2.6" rx="1.2" fill="#4FC3F7"/>
+    </g>
+<text x="46" y="35" font-size="13" font-weight="bold" fill="#D7E3E8">WebTranslate</text>
+<text x="232" y="35" font-size="8.5" fill="#5A7280" text-anchor="end">#04</text>
+<text x="20" y="63" font-size="9.5" fill="#8FA6B3">Translate pages with six engines</text>
+<g>
+      <rect x="20" y="92" width="46" height="17" rx="4" fill="#4FC3F7" fill-opacity=".10" stroke="#4FC3F7" stroke-opacity=".38"/>
+      <text x="43" y="103.5" font-size="8.5" fill="#4FC3F7" text-anchor="middle" letter-spacing=".5">chrome</text>
+    </g><g>
+      <rect x="71.6" y="92" width="34" height="17" rx="4" fill="#4FC3F7" fill-opacity=".10" stroke="#4FC3F7" stroke-opacity=".38"/>
+      <text x="89" y="103.5" font-size="8.5" fill="#4FC3F7" text-anchor="middle" letter-spacing=".5">edge</text>
+    </g>
+<circle class="led04" cx="207" cy="100" r="3.2" fill="#3AD07A"/>
+<text x="214" y="103.5" font-size="8.5" fill="#8FA6B3" letter-spacing="1">LIVE</text></svg>

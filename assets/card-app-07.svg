@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="130" viewBox="0 0 250 130" font-family="'Cascadia Code','Consolas','JetBrains Mono',Menlo,monospace">
+<style>
+  .led07 { animation: pulse07 2.4s ease-in-out infinite; }
+  @keyframes pulse07 { 0%,100% {opacity:1;} 50% {opacity:.25;} }
+</style>
+<rect width="250" height="130" rx="10" fill="#101A22" stroke="#1E2A33"/>
+<path d="M7 15 v-8 h8" stroke="#2FE0C8" stroke-width="1.8" fill="none" opacity=".75"/>
+<path d="M243 15 v-8 h-8" stroke="#2FE0C8" stroke-width="1.8" fill="none" opacity=".75"/>
+<path d="M7 115 v8 h8" stroke="#2FE0C8" stroke-width="1.8" fill="none" opacity=".75"/>
+<path d="M243 115 v8 h-8" stroke="#2FE0C8" stroke-width="1.8" fill="none" opacity=".75"/>
+<g transform="translate(22,24)">
+      <rect x="0" y="1" width="15" height="14" rx="2" fill="none" stroke="#2FE0C8" stroke-width="1.6"/>
+      <path d="M0 5 h15" stroke="#2FE0C8" stroke-width="1.6"/>
+      <circle cx="2.6" cy="3" r=".9" fill="#2FE0C8"/>
+      <circle cx="5.4" cy="3" r=".9" fill="#2FE0C8"/>
+    </g>
+<text x="46" y="35" font-size="13" font-weight="bold" fill="#D7E3E8">Wallpaper</text>
+<text x="232" y="35" font-size="8.5" fill="#5A7280" text-anchor="end">#07</text>
+<text x="20" y="63" font-size="9.5" fill="#8FA6B3">Silent rotating wallpaper engine</text>
+<g>
+      <rect x="20" y="92" width="51" height="17" rx="4" fill="#2FE0C8" fill-opacity=".10" stroke="#2FE0C8" stroke-opacity=".38"/>
+      <text x="46" y="103.5" font-size="8.5" fill="#2FE0C8" text-anchor="middle" letter-spacing=".5">windows</text>
+    </g><g>
+      <rect x="77.19999999999999" y="92" width="29" height="17" rx="4" fill="#2FE0C8" fill-opacity=".10" stroke="#2FE0C8" stroke-opacity=".38"/>
+      <text x="92" y="103.5" font-size="8.5" fill="#2FE0C8" text-anchor="middle" letter-spacing=".5">mit</text>
+    </g>
+<circle class="led07" cx="207" cy="100" r="3.2" fill="#3AD07A"/>
+<text x="214" y="103.5" font-size="8.5" fill="#8FA6B3" letter-spacing="1">LIVE</text></svg>

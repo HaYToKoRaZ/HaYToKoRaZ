@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="58" viewBox="0 0 840 58" font-family="'Cascadia Code','Consolas','JetBrains Mono',Menlo,monospace">
+<rect width="840" height="58" rx="9" fill="#101A22" stroke="#1E2A33"/>
+<g>
+      <rect x="12" y="14" width="78" height="30" rx="15" fill="#FFB000" fill-opacity=".08" stroke="#FFB000" stroke-opacity=".4"/>
+      <circle cx="28" cy="29" r="3.5" fill="#FFB000"/>
+      <text x="38" y="33" font-size="11.5" fill="#D7E3E8">C# / .NET</text>
+    </g><g>
+      <rect x="99.6" y="14" width="58" height="30" rx="15" fill="#4FC3F7" fill-opacity=".08" stroke="#4FC3F7" stroke-opacity=".4"/>
+      <circle cx="115.6" cy="29" r="3.5" fill="#4FC3F7"/>
+      <text x="125.6" y="33" font-size="11.5" fill="#D7E3E8">Python</text>
+    </g><g>
+      <rect x="168.0" y="14" width="84" height="30" rx="15" fill="#FF7847" fill-opacity=".08" stroke="#FF7847" stroke-opacity=".4"/>
+      <circle cx="184.0" cy="29" r="3.5" fill="#FF7847"/>
+      <text x="194.0" y="33" font-size="11.5" fill="#D7E3E8">JavaScript</text>
+    </g><g>
+      <rect x="262.0" y="14" width="84" height="30" rx="15" fill="#FF5C8A" fill-opacity=".08" stroke="#FF5C8A" stroke-opacity=".4"/>
+      <circle cx="278.0" cy="29" r="3.5" fill="#FF5C8A"/>
+      <text x="288.0" y="33" font-size="11.5" fill="#D7E3E8">HTML / CSS</text>
+    </g><g>
+      <rect x="356.0" y="14" width="46" height="30" rx="15" fill="#9D7CFF" fill-opacity=".08" stroke="#9D7CFF" stroke-opacity=".4"/>
+      <circle cx="372.0" cy="29" r="3.5" fill="#9D7CFF"/>
+      <text x="382.0" y="33" font-size="11.5" fill="#D7E3E8">Rust</text>
+    </g><g>
+      <rect x="411.6" y="14" width="78" height="30" rx="15" fill="#2FE0C8" fill-opacity=".08" stroke="#2FE0C8" stroke-opacity=".4"/>
+      <circle cx="427.6" cy="29" r="3.5" fill="#2FE0C8"/>
+      <text x="437.6" y="33" font-size="11.5" fill="#D7E3E8">Win32 API</text>
+    </g><g>
+      <rect x="499.20000000000005" y="14" width="103" height="30" rx="15" fill="#7CFC9A" fill-opacity=".08" stroke="#7CFC9A" stroke-opacity=".4"/>
+      <circle cx="515.2" cy="29" r="3.5" fill="#7CFC9A"/>
+      <text x="525.2" y="33" font-size="11.5" fill="#D7E3E8">CachyOS Linux</text>
+    </g></svg>

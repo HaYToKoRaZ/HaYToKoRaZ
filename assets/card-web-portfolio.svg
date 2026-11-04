@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="130" viewBox="0 0 250 130" font-family="'Cascadia Code','Consolas','JetBrains Mono',Menlo,monospace">
+<style>
+  .led08 { animation: pulse08 2.4s ease-in-out infinite; }
+  @keyframes pulse08 { 0%,100% {opacity:1;} 50% {opacity:.25;} }
+</style>
+<rect width="250" height="130" rx="10" fill="#101A22" stroke="#1E2A33"/>
+<path d="M7 15 v-8 h8" stroke="#D7E3E8" stroke-width="1.8" fill="none" opacity=".75"/>
+<path d="M243 15 v-8 h-8" stroke="#D7E3E8" stroke-width="1.8" fill="none" opacity=".75"/>
+<path d="M7 115 v8 h8" stroke="#D7E3E8" stroke-width="1.8" fill="none" opacity=".75"/>
+<path d="M243 115 v8 h-8" stroke="#D7E3E8" stroke-width="1.8" fill="none" opacity=".75"/>
+<g transform="translate(22,24)">
+      <rect x="0" y="2" width="15" height="11" rx="1.6" fill="none" stroke="#FFB000" stroke-width="1.6"/>
+      <path d="M5 13 l-1.5 3.5 M10 13 l1.5 3.5 M4 16.5 h7" stroke="#FFB000" stroke-width="1.6" fill="none"/>
+    </g>
+<text x="46" y="35" font-size="13" font-weight="bold" fill="#D7E3E8">haytokoraz.github.io</text>
+<text x="232" y="35" font-size="8.5" fill="#5A7280" text-anchor="end">#08</text>
+<text x="20" y="63" font-size="9.5" fill="#8FA6B3">A working Windows 98 desktop</text>
+<g>
+      <rect x="20" y="92" width="51" height="17" rx="4" fill="#D7E3E8" fill-opacity=".10" stroke="#D7E3E8" stroke-opacity=".38"/>
+      <text x="46" y="103.5" font-size="8.5" fill="#D7E3E8" text-anchor="middle" letter-spacing=".5">vanilla</text>
+    </g><g>
+      <rect x="77.19999999999999" y="92" width="57" height="17" rx="4" fill="#D7E3E8" fill-opacity=".10" stroke="#D7E3E8" stroke-opacity=".38"/>
+      <text x="106" y="103.5" font-size="8.5" fill="#D7E3E8" text-anchor="middle" letter-spacing=".5">no build</text>
+    </g>
+<circle class="led08" cx="207" cy="100" r="3.2" fill="#3AD07A"/>
+<text x="214" y="103.5" font-size="8.5" fill="#8FA6B3" letter-spacing="1">LIVE</text></svg>
