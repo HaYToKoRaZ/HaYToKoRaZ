@@ -59,8 +59,8 @@
         <text x="22" y="118" fill="#2FE0C8">&gt; ls products/</text>
         <text x="22" y="142" fill="#D7E3E8">RewriteAI  TabSuspender  XDownloader  WebTranslate</text>
         <text x="22" y="164" fill="#D7E3E8">ExtensityPlus  CloudStartPage  WattCost  FakeLord  +6</text>
-        <text x="22" y="196" fill="#2FE0C8">&gt; status <tspan fill="#FFB000">shipping</tspan><tspan fill="#6F8896"> · 13 products · zero telemetry</tspan></text>
-        <rect x="278" y="185" width="9" height="14" fill="#FFB000">
+        <text x="22" y="196" fill="#2FE0C8">&gt; status <tspan fill="#FFB000">shipping</tspan><tspan fill="#6F8896"> · 14 products · zero telemetry</tspan></text>
+        <rect x="380" y="185" width="9" height="14" fill="#FFB000">
           <animate attributeName="opacity" values="1;1;0;0;1" dur="1.15s" repeatCount="indefinite"/>
         </rect>
       </g>

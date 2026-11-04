@@ -22,7 +22,7 @@ I'm **HaYTo** — a solo developer who prefers finished software over perfect so
 Every project here follows the same rules: **one job done properly**, **zero telemetry**, **MIT licensed**, and **light enough that you forget it's running**. Everything is published to real stores and real releases — not just commits.
 
 ```text
-13 shipped products  ·  7 browser extensions  ·  7 desktop apps  ·  100% open source
+14 shipped products  ·  7 browser extensions  ·  7 desktop apps  ·  100% open source
 ```
 
 ## Browser Extensions
