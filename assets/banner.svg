@@ -53,13 +53,14 @@
       <text x="82" y="22" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#6F8896" letter-spacing="1">C:\HAYTO\profile</text>
       <line x1="0" y1="34" x2="600" y2="34" stroke="#1E2A33" stroke-width="1"/>
 
-      <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
-        <text x="22" y="66" fill="#2FE0C8">&gt; whoami</text>
-        <text x="22" y="92" fill="#D7E3E8">HaYTo <tspan fill="#6F8896">// desktop tools, tiny apps, zero bloat</tspan></text>
-        <text x="22" y="126" fill="#2FE0C8">&gt; ls projects/</text>
-        <text x="22" y="152" fill="#D7E3E8">WattCost.exe  LolSwitcher.exe  HaYTooL/  portfolio.web</text>
-        <text x="22" y="186" fill="#2FE0C8">&gt; status <tspan fill="#FFB000">shipping</tspan><tspan fill="#6F8896"> · </tspan><tspan fill="#FFB000">building</tspan><tspan fill="#6F8896"> · </tspan><tspan fill="#FFB000">learning</tspan></text>
-        <rect x="100" y="174" width="9" height="15" fill="#FFB000">
+      <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+        <text x="22" y="62" fill="#2FE0C8">&gt; whoami</text>
+        <text x="22" y="86" fill="#D7E3E8">HaYTo <tspan fill="#6F8896">// browser extensions + native desktop tools</tspan></text>
+        <text x="22" y="118" fill="#2FE0C8">&gt; ls products/</text>
+        <text x="22" y="142" fill="#D7E3E8">RewriteAI  TabSuspender  XDownloader  WebTranslate</text>
+        <text x="22" y="164" fill="#D7E3E8">ExtensityPlus  CloudStartPage  WattCost  FakeLord  +6</text>
+        <text x="22" y="196" fill="#2FE0C8">&gt; status <tspan fill="#FFB000">shipping</tspan><tspan fill="#6F8896"> · 13 products · zero telemetry</tspan></text>
+        <rect x="278" y="185" width="9" height="14" fill="#FFB000">
           <animate attributeName="opacity" values="1;1;0;0;1" dur="1.15s" repeatCount="indefinite"/>
         </rect>
       </g>
