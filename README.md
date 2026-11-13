@@ -88,8 +88,8 @@ Windows · CachyOS Linux · download the latest build from **Releases**
 </tr>
 <tr>
 <td><a href="https://haytokoraz.github.io/HaYTooL-Wallpaper/"><img src="assets/card-app-07.svg" width="250" alt="Wallpaper — silent rotating wallpaper engine"></a></td>
+<td><a href="https://github.com/HaYToKoRaZ/DiskHaY"><img src="assets/card-app-08.svg" width="250" alt="DiskHaY — GPU-accelerated disk space visualizer"></a></td>
 <td><a href="https://haytokoraz.github.io/"><img src="assets/card-web-portfolio.svg" width="250" alt="haytokoraz.github.io — a working Windows 98 desktop in the browser"></a></td>
-<td></td>
 </tr>
 </table>
 </div>
@@ -108,6 +108,7 @@ Windows · CachyOS Linux · download the latest build from **Releases**
 | **FakeLord** | [Site](https://haytokoraz.github.io/FakeLord/) | [Download](https://github.com/HaYToKoRaZ/FakeLord/releases/latest) |
 | **Weather** | [Site](https://haytokoraz.github.io/HaYTooL-Weather/) | [Download](https://github.com/HaYToKoRaZ/HaYTooL-Weather/releases/latest) |
 | **Wallpaper** | [Site](https://haytokoraz.github.io/HaYTooL-Wallpaper/) | [Download](https://github.com/HaYToKoRaZ/HaYTooL-Wallpaper/releases/latest) |
+| **DiskHaY** | [Repo](https://github.com/HaYToKoRaZ/DiskHaY) | [Download](https://github.com/HaYToKoRaZ/DiskHaY/releases/latest) |
 
 </details>
 

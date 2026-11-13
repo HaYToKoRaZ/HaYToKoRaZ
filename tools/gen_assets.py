@@ -49,7 +49,7 @@ def banner():
 
     lines_data = [
         ("> whoami", "HaYTo - solo developer", TEXT, "0.6s"),
-        ("> ls products/", "7 extensions - 7 desktop apps", TEXT, "1.6s"),
+        ("> ls products/", "7 extensions - 8 desktop apps", TEXT, "1.6s"),
         ("> status", "SHIPPING - ZERO TELEMETRY", TEAL, "2.6s"),
     ]
     lines = "".join(
@@ -108,7 +108,7 @@ def banner():
 
 <!-- status strip -->
 <path d="M32 306 h1136" stroke="{HAIR}"/>
-<text x="32" y="296" font-size="10" fill="{DIM}">14 PRODUCTS</text>
+<text x="32" y="296" font-size="10" fill="{DIM}">15 PRODUCTS</text>
 <text x="130" y="296" font-size="10" fill="{DIM}">100% OSS</text>
 <text x="216" y="296" font-size="10" fill="{DIM}">MIT LICENSED</text>
 <text x="1168" y="296" font-size="10" fill="{DIM}" text-anchor="end">ISTANBUL, TR</text>
@@ -200,6 +200,7 @@ APPS = [
     ("FakeLord", "4,000+ games running, 0 MB GPU", "#9D7CFF", ["windows", "mit"]),
     ("Weather", "Live conditions in the system tray", "#7CFC9A", ["windows", "mit"]),
     ("Wallpaper", "Silent rotating wallpaper engine", TEAL, ["windows", "mit"]),
+    ("DiskHaY", "GPU-accelerated disk space visualizer", "#FF7847", ["win/linux", "mit"]),
 ]
 
 def generate_cards():
@@ -207,7 +208,7 @@ def generate_cards():
         write_svg(f"card-ext-{i:02d}.svg", card(i, name, tag, acc, chips, icon_ext(acc)), 250, 130)
     for i, (name, tag, acc, chips) in enumerate(APPS, 1):
         write_svg(f"card-app-{i:02d}.svg", card(i, name, tag, acc, chips, icon_app(acc)), 250, 130)
-    write_svg("card-web-portfolio.svg", card(8, "haytokoraz.github.io", "A working Windows 98 desktop", "#D7E3E8", ["vanilla", "no build"], icon_web(AMBER)), 250, 130)
+    write_svg("card-web-portfolio.svg", card(9, "haytokoraz.github.io", "A working Windows 98 desktop", "#D7E3E8", ["vanilla", "no build"], icon_web(AMBER)), 250, 130)
     write_svg("card-cta-catalog.svg", cta_card("FULL CATALOG", "every extension and app", ""), 250, 130)
 
 # ------------------------------------------------------------- titlebars ----
@@ -274,7 +275,7 @@ if __name__ == "__main__":
     banner()
     generate_cards()
     write_svg("sect-extensions.svg", titlebar("~/products/extensions", "7 modules - chromium - edge", TEAL), 840, 42)
-    write_svg("sect-applications.svg", titlebar("~/products/applications", "7 modules - windows - linux", AMBER), 840, 42)
+    write_svg("sect-applications.svg", titlebar("~/products/applications", "8 modules - windows - linux", AMBER), 840, 42)
     write_svg("sect-telemetry.svg", titlebar("~/telemetry", "activity - stats - streak", TEAL), 840, 42)
     write_svg("sect-stack.svg", titlebar("~/stack", "daily drivers", AMBER), 840, 42)
     write_svg("stack.svg", stack_strip(), 840, 58)

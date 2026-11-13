@@ -41,7 +41,7 @@
   </g>
   <g style="opacity:0;animation:reveal .5s ease-out 1.6s forwards">
     <text x="60" y="146" font-size="15" font-weight="bold" fill="#FFB000">&gt; ls products/</text>
-    <text x="60" y="168" font-size="14" fill="#D7E3E8">7 extensions - 7 desktop apps</text>
+    <text x="60" y="168" font-size="14" fill="#D7E3E8">7 extensions - 8 desktop apps</text>
   </g>
   <g style="opacity:0;animation:reveal .5s ease-out 2.6s forwards">
     <text x="60" y="198" font-size="15" font-weight="bold" fill="#FFB000">&gt; status</text>
@@ -57,7 +57,7 @@
 
 <!-- status strip -->
 <path d="M32 306 h1136" stroke="#1E2A33"/>
-<text x="32" y="296" font-size="10" fill="#5A7280">14 PRODUCTS</text>
+<text x="32" y="296" font-size="10" fill="#5A7280">15 PRODUCTS</text>
 <text x="130" y="296" font-size="10" fill="#5A7280">100% OSS</text>
 <text x="216" y="296" font-size="10" fill="#5A7280">MIT LICENSED</text>
 <text x="1168" y="296" font-size="10" fill="#5A7280" text-anchor="end">ISTANBUL, TR</text>
